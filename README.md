@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Aaditya Chachra and I'm a CS Sophomore at Netaji Subhas University of Technology(NSUT)</p>
+<p align="left">My name is Aaditya Chachra and I'm a CS Sophomore at Netaji Subhas University of Technology(NSUT)</p>
 
 ###
 
