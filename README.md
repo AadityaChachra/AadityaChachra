@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aaditya Chachra and I'm a CS Sophomore at Netaji Subhas University of Technology(NSUT)</p>
+<p align="left">My name is Aaditya Chachra and I'm a CS Sophomore at Netaji Subhas University of Technology (NSUT)</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 12<br>📚 I'm currently learning Data Structures and Algorithms<br>🎲 Fun fact: I'm a Potterhead ! ⚡</p>
+<p align="left">✨ Creating bugs since 12<br>📚 I'm currently learning Data Structures and Algorithms and Web Development<br>🎲 Fun fact: I'm a Potterhead ! ⚡</p>
 
 ###
 
