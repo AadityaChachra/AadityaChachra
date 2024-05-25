@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 12<br>📚 I'm currently learning Data Structures and Algorithms and Web Development<br>🎲 Fun fact: I'm a Potterhead ! ⚡</p>
+<p align="left">✨ Creating bugs since 12<br>📚 I'm currently focusing on Data Structures and Algorithms and Web Development<br>🎲 Fun fact: I'm a Potterhead ! ⚡</p>
 
 ###
 
